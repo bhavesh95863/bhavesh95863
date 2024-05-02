@@ -17,7 +17,7 @@ I specialize in customizing ERP systems, particularly Frappe/ERPNext, to cater t
 
 Let me walk you through some of the exciting projects I've been involved in:
 
-1. **Elevated Employee Self Service (ESS) App with Flutter**: Elevate your organization's productivity and employee satisfaction with our feature-rich ESS app. From leave requests to performance evaluations, and beyond, our Flutter-powered app offers a seamless, intuitive experience.
+1. **Employee Self Service (ESS) App For ERPNext**: Elevate your organization's productivity and employee satisfaction with our feature-rich ESS app. From leave requests to performance evaluations, and beyond, our Flutter-powered app offers a seamless, intuitive experience.
    
    **Key Features**:
    - **Interactive Dashboard**: Empower your workforce with a personalized dashboard, providing quick access to essential information and tasks.
