@@ -17,7 +17,7 @@ I specialize in customizing ERP systems, particularly Frappe/ERPNext, to cater t
 
 Let me walk you through some of the exciting projects I've been involved in:
 
-1. **Employee Self Service (ESS) App For ERPNext**: Elevate your organization's productivity and employee satisfaction with our feature-rich ESS app. From leave requests to performance evaluations, and beyond, our Flutter-powered app offers a seamless, intuitive experience.
+1. **Employee Self Service (ESS) App For ERPNext **: Elevate your organization's productivity and employee satisfaction with our feature-rich ESS app. From leave requests to performance evaluations, and beyond, our Flutter-powered app offers a seamless, intuitive experience.
    
    **Key Features**:
    - **Interactive Dashboard**: Empower your workforce with a personalized dashboard, providing quick access to essential information and tasks.
@@ -30,6 +30,12 @@ Let me walk you through some of the exciting projects I've been involved in:
 
 3. **Revolutionary Restaurant POS System in Frappe**: Transform your restaurant operations with our innovative POS system built on the robust Frappe framework. From order management to inventory control, we've got you covered!
 
+## GitHub Activity
+
+- GitHub Stars: [![GitHub stars](https://img.shields.io/github/stars/bhavesh95863?style=social)](https://github.com/bhavesh95863?tab=stars)
+- Pull Requests: [![GitHub pull requests](https://img.shields.io/github/issues-pr/bhavesh95863?style=social)](https://github.com/bhavesh95863/pulls)
+- Contributions: ![Bhavesh's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=bhavesh95863&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+
 ## Get in Touch
 
 Let's collaborate and turn your ideas into reality! Reach out to me via:
@@ -40,4 +46,3 @@ Let's collaborate and turn your ideas into reality! Reach out to me via:
 - Community Forum: [Frappe Forum](https://discuss.frappe.io/u/maheshwari_bhavesh/summary)
 
 Together, let's embark on a journey of innovation and transformation!
-
