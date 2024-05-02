@@ -32,9 +32,7 @@ Let me walk you through some of the exciting projects I've been involved in:
 
 ## GitHub Activity
 
-- GitHub Stars: [![GitHub stars](https://img.shields.io/github/stars/bhavesh95863?style=social)](https://github.com/bhavesh95863?tab=stars)
-- Pull Requests: [![GitHub pull requests](https://img.shields.io/github/issues-pr/bhavesh95863?style=social)](https://github.com/bhavesh95863/pulls)
-- Contributions: ![Bhavesh's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=bhavesh95863&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+![Bhavesh GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavesh95863&show_icons=true&include_all_commits=true)
 
 ## Get in Touch
 
