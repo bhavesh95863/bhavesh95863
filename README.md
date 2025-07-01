@@ -9,7 +9,7 @@ I specialize in customizing ERP systems, particularly Frappe/ERPNext, to cater t
 - 🔭 Currently, I'm architecting an extraordinary Employee Self Service (ESS) app for ERPNext using Flutter.
 - 🌱 I'm continually honing my skills in Frappe/ERPNext, Flutter, and Vue.js to stay at the forefront of technology.
 - 💬 Let's chat about Frappe framework, ERPNext customization, Flutter, Vue.js, or anything that ignites your curiosity!
-- 📫 Reach out to me: [LinkedIn](www.linkedin.com/in/maheshwaribhavesh), [Upwork](https://www.upwork.com/freelancers/~014281a79a8181c271?mp_source=share), [WhatsApp](https://wa.me/916359985959)
+- 📫 Reach out to me: [LinkedIn](https://linkedin.com/in/maheshwaribhavesh), [Upwork](https://www.upwork.com/freelancers/~014281a79a8181c271?mp_source=share), [WhatsApp](https://wa.me/916359985959)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an avid entrepreneur at heart, constantly brewing up new business ideas and innovations that excite and inspire me. Whether it's brainstorming over coffee or sketching out concepts in my notebook, I thrive on the thrill of creating something from nothing and pushing the boundaries of what's possible.
 
